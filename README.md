@@ -105,6 +105,7 @@ streamlit run app.py
 ## 📸 Demo
 
 Drive Link : https://drive.google.com/file/d/1qBbG2M4MIPNaAWWaTmQY6uH7ktCTUVJ_/view?usp=sharing
+Prior reseach on Google colab :https://colab.research.google.com/drive/1LO3UFIdMBle2A5Sw87OH-sI8vXhJP_6s?usp=sharing
 
 ---
 
