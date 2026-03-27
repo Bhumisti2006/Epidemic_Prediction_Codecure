@@ -104,7 +104,7 @@ streamlit run app.py
 
 ## 📸 Demo
 
-(Add screenshots in /assets)
+Drive Link : https://drive.google.com/file/d/1qBbG2M4MIPNaAWWaTmQY6uH7ktCTUVJ_/view?usp=sharing
 
 ---
 
@@ -117,6 +117,7 @@ streamlit run app.py
 
 ---
 
-## 👥 Team
+## 👥 Team Toronto
 
 * Bhumisti Das
+* Anusna Pradhan
